@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://giphy.com/embed/Hb4ybcNnDZVyql3BCF">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="<iframe src="https://giphy.com/embed/Hb4ybcNnDZVyql3BCF" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/artinside-julpow-powdercolours-Hb4ybcNnDZVyql3BCF">via GIPHY</a></p>">
 </div>
   
   ##
