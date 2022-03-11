@@ -20,7 +20,7 @@
 <div> 
   <a href="https://instagram.com/Vadym.333" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/nashiito__" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.patreon.com/Nashiito" target="_blank"><img src="https://img.shields.io/badge/Patreon-%4BFF27?style=for-the-badge&logo=patreon&logoColor=white" target="_blank"></a> 
+  <a href="https://www.patreon.com/Nashiito" target="_blank"><img src="https://img.shields.io/badge/Patreon-%FF601B?style=for-the-badge&logo=patreon&logoColor=white" target="_blank"></a> 
   <a href="https://www.twitter.com/NNashz" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/nashiito3/nashiito3/blob/output/github-contribution-grid-snake.svg))
