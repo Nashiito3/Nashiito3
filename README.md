@@ -1,5 +1,5 @@
-## Hi! I am Nashiito. I´m 20 years old developer. 
-
+## Hi! I am Nashiito
+## -- 20 years old --
 ## -- From Ucraine --
 
 <div align="center">
