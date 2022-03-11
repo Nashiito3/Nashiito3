@@ -1,4 +1,4 @@
-## Hi! I am Nashiito.
+## Hi! I am Nashiito. I´m 20 years old developer from Ucraine.
 <div align="center">
   <a href="https://github.com/Nashiito3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nashiito3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
