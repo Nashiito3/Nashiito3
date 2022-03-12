@@ -1,5 +1,5 @@
 ## Hi! I am Nashiito
-## -- 20 years old --
+## -- 18 years old --
 ## -- From Ucraine --
 
 <div align="center">
